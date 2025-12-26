@@ -32,21 +32,6 @@ Library: Pygame
 Data Storage: JSON (for high scores)
 
 
-📂 Project Structure
-Type_In_Time/
-│
-├── main.py            # Main game loop & UI
-├── game_logic.py      # Core gameplay logic
-├── settings.py        # Settings screen & difficulty UI
-├── words.py           # Word list
-├── highscore.json     # High score storage
-├── assets/
-│   ├── settings.png
-│   └── blast.wav
-├── .gitignore
-└── README.md
-    utils.py 
-
 
 ⚙️ Difficulty Modes
 

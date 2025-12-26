@@ -29,17 +29,7 @@ Words Rain is a Python-based typing game built with Pygame that helps users impr
 🛠️ Tech Stack
 Language: Python 
 Library: Pygame
-Data Storage: JSON (for high scores)
-
-
-
-⚙️ Difficulty Modes
-
-Mode	 Word Speed	   Spawn Rate
-Easy	   Slow	        Few words
-Medium	   Medium	    More words
-Hard	   Fast	        Many words
-
+Data Storage: JSON (for high score)
 
 High scores are tracked separately for each mode.
 

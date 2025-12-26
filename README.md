@@ -69,6 +69,12 @@ Developed as a learning project
 
 This project is open-source and free to use for learning and personal projects.
 
+## Author
+Prem Jha
+
+- Github: https://github.com/py564
+- Linkedin: https://www.linkedin.com/in/prem-jha-98407a39b/
+
 
 
 
